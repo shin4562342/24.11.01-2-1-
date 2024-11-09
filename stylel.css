@@ -158,8 +158,8 @@
     overflow: hidden;
 }
 .d img {
-    width: 100%;
-    height: 100%;
+    max-width: auto;
+    max-height: 100%;
     object-fit: cover;
 }
 
